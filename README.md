@@ -1,4 +1,4 @@
-# MRT1-C_00_Hallo
+# MRT1-C_07_Zeiger
 
 ## Preparations
 To be able to easily use this project, the MRT-Environment must be set up first. Please clone it from its own repository (git clone https://github.com/plt-tud/MRT-Environment-Setup.git) and execute the installer script before continuing with this tutorial.
